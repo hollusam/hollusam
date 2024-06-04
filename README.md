@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluyomi Samuel
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Next.js + Vercel
+- 🌱 I’m currently learning Typscript
 - 💞️ I’m looking to collaborate on projects and mentoring
 - 📫 How to reach me on Instagram @hollusam, on twitter @hollusam
 
